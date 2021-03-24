@@ -8,27 +8,28 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emani\\.nuget\\packages\\": {},
+    "C:\\Users\\Christian\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Demos\\MeuDojo\\MeuDojo\\MeuDojo\\MeuDojo.Web\\MeuDojo.Web.csproj",
+      "projectUniqueName": "E:\\Projetos\\Asp\\MeuDojo\\MeuDojo.Web\\MeuDojo.Web.csproj",
       "projectName": "MeuDojo.Web",
-      "projectPath": "C:\\Demos\\MeuDojo\\MeuDojo\\MeuDojo\\MeuDojo.Web\\MeuDojo.Web.csproj",
-      "packagesPath": "C:\\Users\\emani\\.nuget\\packages\\",
-      "outputPath": "C:\\Demos\\MeuDojo\\MeuDojo\\MeuDojo\\MeuDojo.Web\\obj\\",
+      "projectPath": "E:\\Projetos\\Asp\\MeuDojo\\MeuDojo.Web\\MeuDojo.Web.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "E:\\Projetos\\Asp\\MeuDojo\\MeuDojo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\emani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
